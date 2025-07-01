@@ -157,7 +157,7 @@ If you use this analysis methodology, please cite:
 ```
 A/B Testing Analysis: Website Background Color Impact on Conversion Rates
 Dataset: Synthetic retail website user behavior data (n=5,000)
-Analysis Date: [Current Date]
+Analysis Date: [JUNE 2025]
 ```
 
 ## 🤝 **Contributing**
@@ -168,16 +168,10 @@ Analysis Date: [Current Date]
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 **Contact**
 
-For questions or collaboration opportunities:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [@your-username](https://github.com/your-username)
+- **LinkedIn**: https://www.linkedin.com/in/harshyadav577/
+- **GitHub**: https://github.com/harshyad24
 
 ---
 
@@ -190,6 +184,3 @@ For questions or collaboration opportunities:
 **Business Impact**: High  
 **Implementation Difficulty**: Low  
 
----
-
-*Last Updated: [Current Date]*

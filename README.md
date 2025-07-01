@@ -150,6 +150,10 @@ Post-implementation tracking should focus on:
 - **Mann-Whitney U test** for time spent comparison (non-parametric)
 - **Effect size calculations** (Cohen's d, Cohen's h, Odds Ratio)
 - **Power analysis** for sample size validation
+  
+## 🗂️ **Data Source**
+
+https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice/data
 
 ## 📝 **Citation**
 

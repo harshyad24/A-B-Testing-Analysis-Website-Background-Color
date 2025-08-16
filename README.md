@@ -222,6 +222,5 @@ The A/B test conclusively demonstrates that Variant B (new background color) del
 
 ---
 
-**Project Author:** [Your Name]  
-**Analysis Period:** [Date Range]  
+**Project Author:** Harsh Yadav   
 **Last Updated:** August 15, 2025

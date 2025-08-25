@@ -14,12 +14,28 @@ This project analyzes the impact of website background color changes on user eng
 - Device-specific Performance
 - Geographic Performance Variations
 
-## 🖼️ Dashboard Overview
 
+## 📊 Power BI Dashboard Components
+
+### **Dashboard A - Variant Performance Analysis**
+![Dashboard A](https://github.com/harshyad24/A-B-Testing-Analysis-Website-Background-Color/blob/main/A%20Test.png)
+**📊 Dashboard A (Control Group):** Shows baseline performance metrics for the original design
+**Key Components:**
+- **Performance Overview Panel:** Conversion rate comparison by device (Mobile: 4.94%, Desktop: 5.87%)
+- **User Metrics Table:** Individual user tracking with Page Views, Time Spent, and Conversion status
+- **Flow Analysis:** Group → Device → Conversion → Location user journey
+- **Geographic Distribution:** England (21), Scotland (16), Northern Ireland (13), Wales (13)
+
+### **Dashboard B - Optimized Variant Results**
+![Dashboard B](https://github.com/harshyad24/A-B-Testing-Analysis-Website-Background-Color/blob/main/B%20Test.png)
+**📊 Dashboard B (Test Group):** Displays optimized performance results for the new background color
+**Key Components:**
+- **Enhanced Performance Panel:** Significantly improved conversion rates (Mobile: 14.24%, Desktop: 13.91%)
+- **User Journey Visualization:** Same flow structure showing improved conversion paths
+- **Regional Performance:** Enhanced geographic distribution with better conversion rates
+- **Statistical Validation:** Clear evidence of performance improvement across all segments
 This analysis includes two comprehensive Power BI dashboards that provide complete visibility into the A/B test performance:
 
-**📊 Dashboard A (Control Group):** Shows baseline performance metrics for the original design
-**📊 Dashboard B (Test Group):** Displays optimized performance results for the new background color
 
 *Both dashboards follow identical layouts for easy comparison and feature real-time filtering capabilities.*
 
@@ -106,25 +122,6 @@ This analysis includes two comprehensive Power BI dashboards that provide comple
 - User journey flow analysis
 - Statistical significance indicators
 
-## 📊 Power BI Dashboard Components
-
-### **Dashboard A - Variant Performance Analysis**
-![Dashboard A](https://github.com/harshyad24/A-B-Testing-Analysis-Website-Background-Color/blob/main/A%20Test.png)
-
-**Key Components:**
-- **Performance Overview Panel:** Conversion rate comparison by device (Mobile: 4.94%, Desktop: 5.87%)
-- **User Metrics Table:** Individual user tracking with Page Views, Time Spent, and Conversion status
-- **Flow Analysis:** Group → Device → Conversion → Location user journey
-- **Geographic Distribution:** England (21), Scotland (16), Northern Ireland (13), Wales (13)
-
-### **Dashboard B - Optimized Variant Results**
-![Dashboard B](https://github.com/harshyad24/A-B-Testing-Analysis-Website-Background-Color/blob/main/B%20Test.png)
-
-**Key Components:**
-- **Enhanced Performance Panel:** Significantly improved conversion rates (Mobile: 14.24%, Desktop: 13.91%)
-- **User Journey Visualization:** Same flow structure showing improved conversion paths
-- **Regional Performance:** Enhanced geographic distribution with better conversion rates
-- **Statistical Validation:** Clear evidence of performance improvement across all segments
 
 ### **Dashboard Comparison Analysis**
 
